@@ -12,6 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 opencv-python = "*"
 statsmodels = "*"
+tqdm = "*"
 
 [dev-packages]
 
