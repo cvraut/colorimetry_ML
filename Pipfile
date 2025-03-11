@@ -13,6 +13,10 @@ seaborn = "*"
 opencv-python = "*"
 statsmodels = "*"
 tqdm = "*"
+openpyxl = "*"
+skimpy = "*"
+pywavelets = "*"
+scikit-image = "*"
 
 [dev-packages]
 
