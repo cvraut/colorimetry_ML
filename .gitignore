@@ -1,3 +1,7 @@
+# data files
+code/p03_denoising/FULL_RESULTS/*
+code/p03_denoising/pb3000_h3000_data_denoised_craut_20250317/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

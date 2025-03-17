@@ -17,6 +17,8 @@ openpyxl = "*"
 skimpy = "*"
 pywavelets = "*"
 scikit-image = "*"
+h5py = "*"
+plotly = "*"
 
 [dev-packages]
 
