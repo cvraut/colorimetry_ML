@@ -1,6 +1,9 @@
 # data files
 code/p03_denoising/FULL_RESULTS/*
 code/p03_denoising/pb3000_h3000_data_denoised_craut_20250317/*
+code/p04_TE_TM_1D_compare/TE 101 denoised*
+code/p04_TE_TM_1D_compare/TM 101 denoised*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

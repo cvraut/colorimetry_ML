@@ -19,6 +19,10 @@ pywavelets = "*"
 scikit-image = "*"
 h5py = "*"
 plotly = "*"
+optuna = "*"
+jupyter = "*"
+ipywidgets = "*"
+tabulate = "*"
 
 [dev-packages]
 
